@@ -1,17 +1,17 @@
-/* nav { 
+ nav { 
   background-color: rgb(255,255,255,0.85);
   z-index: 99;
   height: 75px;
   width: 100%;
-  position: fixed;
-}*/
+  position: absolute;
+}
 
 .logo {
   width: 50px;
   height: auto;
   position: absolute;
   left: 2%;
-  top: 1em;
+  top: .5em;
 }
 /*
 .nav-item {
@@ -21,8 +21,14 @@
   top: 1.75em;
   font-family: 'Rubik',Arial, Helvetica, sans-serif;
   color: #3f5c7c;
-}
+}*/
 
+.navbar-nav {
+  position: absolute;
+  right: 5%;
+  font-family: 'Rubik',Arial, Helvetica, sans-serif;
+  color: #3f5c7c;
+}
 .nav-item a {
   margin: 20px;
   color: #3f5c7c;
@@ -31,7 +37,7 @@
 
 .nav-items a:hover {
   color: #c45665;
-}*/
+}
 
 body {
   background-color: #faf5ed;
