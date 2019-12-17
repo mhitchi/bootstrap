@@ -26,7 +26,7 @@
 .navbar-nav {
   position: absolute;
   right: 5%;
-  font-family: 'Rubik',Arial, Helvetica, sans-serif;
+  font-family: 'Lato', sans-serif;
   color: #3f5c7c;
 }
 .nav-item a {
@@ -67,16 +67,16 @@ main {
  }
 
 
-h1 {
-  font-family: 'Calistoga';
+.column h1 {
+  font-family: 'Alegreya', serif;
   font-weight: bold;
-  font-size: 5em;
+  font-size: 2.5em;
   color: #3f5c7c;
-  line-height: 2em;
+  line-height: 1em;
 }
 
 p {
-  font-family: 'Rubik';
+  font-family: 'Lato', sans-serif;
   font-size: 20px;
 }
 
@@ -103,7 +103,7 @@ p {
 form {
   background-color: #9ba89e;
   color: #ffffff;
-  font-family: 'Gentium Basic';
+  font-family: 'Lato';
   font-size: .75em;
   margin: 5% 10% 5% 10%;
   padding: 5% 20% 5% 20%;
@@ -122,12 +122,6 @@ form {
   background-color: #c45665;
   color: white;
   border-color: #c45665;
-}
-
-textarea {
-  margin-top: 5px;
-  font-size: 22px;
-  font-family: 'Gentium Basic';
 }
 
 .sm-icons {
@@ -162,14 +156,14 @@ textarea {
 } */
 
 textarea {
-  font-family: 'Rubik';
+  font-family: 'Lato';
   font-size: .5em;
   margin: 10px 0px 0px 0px;
   color: #c45665;
 }
 
 input {
-  font-family: 'Rubik';
+  font-family: 'Lato';
   font-size: .5em;
   margin: 0px 0px 0px 0px;
   color: #c45665;
