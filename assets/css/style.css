@@ -65,22 +65,21 @@ main {
 h1 {
   font-family: 'Calistoga';
   font-weight: bold;
-  font-size: 3em;
-  margin: 0px 0px 0px 0px;
+  font-size: 5em;
   color: #3f5c7c;
-  line-height: 1em;
+  line-height: 2em;
 }
 
 p {
   font-family: 'Rubik';
-  font-size: 1.5em;
-  margin: 0px 0px 0px 0px;
+  font-size: 20px;
 }
 
 .about-me p {
-  margin: 2% 10% 2% 10%;
+  margin: 0% 10% 2% 10%;
   font-size: 1.25em;
 }
+
 
 .resume {
   width: 50%;
